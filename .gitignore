@@ -1,0 +1,15 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Data files (uncomment if your dataset is large / shouldn't be committed)
+# *.csv
+
+# OS files
+.DS_Store
+Thumbs.db
